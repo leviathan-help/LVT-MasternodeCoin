@@ -1,0 +1,6 @@
+usr/local/bin/leviathan-qt usr/bin
+share/pixmaps/leviathan32.xpm usr/share/pixmaps
+share/pixmaps/leviathan16.xpm usr/share/pixmaps
+share/pixmaps/leviathan128.png usr/share/pixmaps
+debian/leviathan-qt.desktop usr/share/applications
+debian/leviathan-qt.protocol usr/share/kde4/services/

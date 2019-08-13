@@ -1,0 +1,8 @@
+/usr/bin/leviathan-cli		--	gen_context(system_u:object_r:leviathan_exec_t,s0)
+/usr/sbin/leviathand		--	gen_context(system_u:object_r:leviathan_exec_t,s0)
+/usr/lib(64)?/leviathan/leviathand		--	gen_context(system_u:object_r:leviathan_exec_t,s0)
+
+/etc/leviathan(/.*)?		gen_context(system_u:object_r:leviathan_conf_t,s0)
+/var/lib/leviathan(/.*)?		gen_context(system_u:object_r:leviathan_var_lib_t,s0)
+
+(/var)?/run/leviathand(/.*)?   gen_context(system_u:object_r:leviathan_var_run_t,s0)

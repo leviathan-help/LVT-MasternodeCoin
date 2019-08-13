@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=LEVIATHAN Coin
+Comment=LEVIATHAN P2P Cryptocurrency
+Comment[fr]=LEVIATHAN, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=LEVIATHAN, eşten eşe kriptografik sanal para birimi
+Exec=leviathan-qt %u
+Terminal=false
+Type=Application
+Icon=leviathan128
+MimeType=x-scheme-handler/leviathan;
+Categories=Office;Finance;
+StartupWMClass=LEVIATHAN-qt

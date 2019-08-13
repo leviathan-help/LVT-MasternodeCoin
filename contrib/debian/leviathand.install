@@ -1,0 +1,3 @@
+usr/local/bin/leviathand usr/bin
+usr/local/bin/leviathan-cli usr/bin
+debian/examples/leviathan.conf etc/leviathan

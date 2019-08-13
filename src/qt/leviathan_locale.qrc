@@ -1,0 +1,37 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/leviathan_bg.qm</file>
+        <file alias="ca">locale/leviathan_ca.qm</file>
+        <file alias="cs">locale/leviathan_cs.qm</file>
+        <file alias="da">locale/leviathan_da.qm</file>
+        <file alias="de">locale/leviathan_de.qm</file>
+        <file alias="en">locale/leviathan_en.qm</file>
+        <file alias="en_GB">locale/leviathan_en_GB.qm</file>
+        <file alias="en_US">locale/leviathan_en_US.qm</file>
+        <file alias="eo">locale/leviathan_eo.qm</file>
+        <file alias="es">locale/leviathan_es.qm</file>
+        <file alias="es_ES">locale/leviathan_es_ES.qm</file>
+        <file alias="fi">locale/leviathan_fi.qm</file>
+        <file alias="fr_FR">locale/leviathan_fr_FR.qm</file>
+        <file alias="hi_IN">locale/leviathan_hi_IN.qm</file>
+        <file alias="hr">locale/leviathan_hr.qm</file>
+        <file alias="hr_HR">locale/leviathan_hr_HR.qm</file>
+        <file alias="it">locale/leviathan_it.qm</file>
+        <file alias="ja">locale/leviathan_ja.qm</file>
+        <file alias="ko_KR">locale/leviathan_ko_KR.qm</file>
+        <file alias="lt_LT">locale/leviathan_lt_LT.qm</file>
+        <file alias="nl">locale/leviathan_nl.qm</file>
+        <file alias="pl">locale/leviathan_pl.qm</file>
+        <file alias="pt">locale/leviathan_pt.qm</file>
+        <file alias="pt_BR">locale/leviathan_pt_BR.qm</file>
+        <file alias="ro_RO">locale/leviathan_ro_RO.qm</file>
+        <file alias="ru">locale/leviathan_ru.qm</file>
+        <file alias="sk">locale/leviathan_sk.qm</file>
+        <file alias="sv">locale/leviathan_sv.qm</file>
+        <file alias="tr">locale/leviathan_tr.qm</file>
+        <file alias="uk">locale/leviathan_uk.qm</file>
+        <file alias="vi">locale/leviathan_vi.qm</file>
+        <file alias="zh_CN">locale/leviathan_zh_CN.qm</file>
+        <file alias="zh_TW">locale/leviathan_zh_TW.qm</file>
+    </qresource>
+</RCC>
