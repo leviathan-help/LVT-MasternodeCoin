@@ -2,7 +2,7 @@
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2019 The PIVX developers
-// Copyright (c) 2019 The LEVIATHAN developers
+// Copyright (c) 2019-2020 The LEVIATHAN developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -64,12 +64,17 @@ boost::assign::map_list_of
 (20143, uint256("0x773ad6730b2cbd6327f834dad676cb106afb033dd77880d70c63573019bf2437"))
 (23576, uint256("0xec3cbd3ce2923e1017d0e7adc59b3180fced671e71b1fd3814df47d7d118d160"))
 (28854, uint256("0x81814ff9f8da2a736039395c9df29a65193a99bcfd7740aa6701539e5218523c"))
+(102548, uint256("0x7d9decc71a48a8847cc88398f4b8414fe86b1268536e031159945d219a53d05e"))
+(168425, uint256("0x5a979ed8fbdd239b1f5431c5c8ce6098578519e7e932bb1051e8a8f0efb884cc"))
+(254321, uint256("0x5a0a1d6bd5a22a79c69ae3ceb5e85183c08df1ff9784c7d8fce5f1eb9e029bde"))
+(299458, uint256("0x7c2800c30f6d203dcf3e0c91a4a76c3087f9dfdbd25ff03cbbaae3e063f99cfe"))
+(336747, uint256("0x4ecba73bdd518e2353b7ebc601869fbef02deb8daaf08331c8252c3121d07f17"))
 
 ;
 static const Checkpoints::CCheckpointData data = {
     &mapCheckpoints,
-    1565687988, // * UNIX timestamp of last checkpoint block
-    58679,    // * total number of transactions between genesis and last checkpoint
+	1584506615, // * UNIX timestamp of last checkpoint block
+    705424,     // * total number of transactions between genesis and last checkpoint
                 //   (the tx=... number in the SetBestChain debug.log lines)
     2000        // * estimated number of transactions per day after checkpoint
 };
@@ -133,6 +138,9 @@ public:
         nMaturity = 61;
         nMasternodeCountDrift = 20;
         nMaxMoneyOut = 1000000000 * COIN;
+
+		/** Major code base update **/
+		nWalletForkBlock = 338500;
 
         /** Height or Time Based Activations **/
         nLastPOWBlock = 200;

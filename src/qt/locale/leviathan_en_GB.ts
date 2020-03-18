@@ -4563,8 +4563,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in leviathan.
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The LEVIATHAN Coin Developers</source>
-        <translation>Copyright (C) 2015-%i The LEVIATHAN Coin Developers</translation>
+        <source>Copyright (C) 2019-%i The LEVIATHAN Coin Developers</source>
+        <translation>Copyright (C) 2019-%i The LEVIATHAN Coin Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

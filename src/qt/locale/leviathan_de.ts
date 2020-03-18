@@ -4440,8 +4440,8 @@ Um das automatische Prägen zu aktivieren ändere 'enablezeromint=0' zu 'enablez
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The LEVIATHAN Coin Developers</source>
-        <translation>Copyright (C) 2015-%i The LEVIATHAN Coin Developers</translation>
+        <source>Copyright (C) 2019-%i The LEVIATHAN Coin Developers</source>
+        <translation>Copyright (C) 2019-%i The LEVIATHAN Coin Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

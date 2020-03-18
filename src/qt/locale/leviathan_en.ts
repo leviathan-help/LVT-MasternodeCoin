@@ -6068,7 +6068,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="+1"/>
-        <source>Copyright (C) 2015-%i The LEVIATHAN Coin Developers</source>
+        <source>Copyright (C) 2019-%i The LEVIATHAN Coin Developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

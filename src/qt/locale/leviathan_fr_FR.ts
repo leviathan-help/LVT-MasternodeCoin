@@ -4701,7 +4701,7 @@ Pour activer Auto-monnayage, changez 'enablezeromint = 0' en 'enablezeromint = 1
         <translation>Copyright (C) 2014-%i Les développeurs de DASH Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The LEVIATHAN Coin Developers</source>
+        <source>Copyright (C) 2019-%i The LEVIATHAN Coin Developers</source>
         <translation>Copyright (C) 2015-%i Les développeurs de LEVIATHAN Coin</translation>
     </message>
     <message>

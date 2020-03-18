@@ -4632,8 +4632,8 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i l
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The LEVIATHAN Coin Developers</source>
-        <translation>Copyright (C) 2015-%i The LEVIATHAN Coin Developers</translation>
+        <source>Copyright (C) 2019-%i The LEVIATHAN Coin Developers</source>
+        <translation>Copyright (C) 2019-%i The LEVIATHAN Coin Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

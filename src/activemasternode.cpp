@@ -1,6 +1,6 @@
 // Copyright (c) 2014-2016 The Dash developers
 // Copyright (c) 2015-2019 The PIVX developers
-// Copyright (c) 2019 The LEVIATHAN developers
+// Copyright (c) 2019-2020 The LEVIATHAN developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -457,7 +457,7 @@ vector<COutput> CActiveMasternode::SelectCoinsMasternode()
 
     // Filter
     for (const COutput& out : vCoins) {
-        if (out.tx->vout[out.i].nValue == 10000 * COIN) { //exactly
+        if (IsMasternodeCollateral(out.tx->vout[out.i].nValue)) { //exactly
             filteredCoins.push_back(out);
         }
     }

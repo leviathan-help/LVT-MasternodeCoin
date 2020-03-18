@@ -4556,7 +4556,7 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Copyright (C) 2014-%i The Dash Kernontwikkelaars</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The LEVIATHAN Coin Developers</source>
+        <source>Copyright (C) 2019-%i The LEVIATHAN Coin Developers</source>
         <translation>Copyright (C) 2015-%i The LEVIATHAN Kernontwikkelaars</translation>
     </message>
     <message>

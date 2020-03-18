@@ -10,7 +10,7 @@
  * @license    This project is released under the MIT license.
  **/
 // Copyright (c) 2017-2019 The PIVX developers
-// Copyright (c) 2019 The LEVIATHAN developers
+// Copyright (c) 2019-2020 The LEVIATHAN developers
 
 #ifndef COIN_H_
 #define COIN_H_

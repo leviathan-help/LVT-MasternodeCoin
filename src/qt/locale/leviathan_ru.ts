@@ -4442,7 +4442,7 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in leviathan.
         <translation>Copyright (C) 2014-%i Разработчики Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The LEVIATHAN Coin Developers</source>
+        <source>Copyright (C) 2019-%i The LEVIATHAN Coin Developers</source>
         <translation>Copyright (C) 2015-%i Разработчики LEVIATHAN Coin</translation>
     </message>
     <message>

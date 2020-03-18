@@ -2,7 +2,7 @@
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2019 The PIVX developers
-// Copyright (c) 2019 The LEVIATHAN developers
+// Copyright (c) 2019-2020 The LEVIATHAN developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -2018,6 +2018,25 @@ int64_t GetMasternodePayment(int nHeight, int64_t blockValue, int nMasternodeCou
     return ret;
 }
 
+bool IsMasternodeCollateral(CAmount value)
+{
+	if (chainActive.Height() < Params().WalletForkBlock()) {
+		return value == MASTERNODE_COLLATERAL_OLD;
+	}
+	else {
+		return value == MASTERNODE_COLLATERAL_NEW;
+	}
+}
+
+CAmount GetMNSpentAmount()
+{
+	if (chainActive.Height() < Params().WalletForkBlock()) {
+		return MASTERNODE_COLLATERAL_OLD - CENT;
+	}
+	else {
+		return MASTERNODE_COLLATERAL_NEW - CENT;
+	}
+}
 
 bool IsInitialBlockDownload()
 {

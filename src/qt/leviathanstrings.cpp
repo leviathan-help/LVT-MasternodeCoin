@@ -282,7 +282,7 @@ QT_TRANSLATE_NOOP("leviathan-core", "Connect to a node to retrieve peer addresse
 QT_TRANSLATE_NOOP("leviathan-core", "Connection options:"),
 QT_TRANSLATE_NOOP("leviathan-core", "Copyright (C) 2009-%i The Bitcoin Core Developers"),
 QT_TRANSLATE_NOOP("leviathan-core", "Copyright (C) 2014-%i The Dash Core Developers"),
-QT_TRANSLATE_NOOP("leviathan-core", "Copyright (C) 2015-%i The LEVIATHAN Coin Developers"),
+QT_TRANSLATE_NOOP("leviathan-core", "Copyright (C) 2019-%i The LEVIATHAN Coin Developers"),
 QT_TRANSLATE_NOOP("leviathan-core", "Corrupted block database detected"),
 QT_TRANSLATE_NOOP("leviathan-core", "Could not parse masternode.conf"),
 QT_TRANSLATE_NOOP("leviathan-core", "Couldn't generate the accumulator witness"),

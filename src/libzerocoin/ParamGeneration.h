@@ -8,7 +8,7 @@
 /// \copyright  Copyright 2013 Ian Miers, Christina Garman and Matthew Green
 /// \license    This project is released under the MIT license.
 // Copyright (c) 2017-2018 The PIVX developers
-// Copyright (c) 2019 The LEVIATHAN developers
+// Copyright (c) 2019-2020 The LEVIATHAN developers
 
 #ifndef PARAMGENERATION_H_
 #define PARAMGENERATION_H_

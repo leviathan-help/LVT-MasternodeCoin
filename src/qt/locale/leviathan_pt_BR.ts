@@ -3459,7 +3459,7 @@ https://www.transifex.com/leviathan-project/leviathan-project-translations</tran
         <translation>Todos os direitos reservados (C) 2014-%i aos Desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The LEVIATHAN Coin Developers</source>
+        <source>Copyright (C) 2019-%i The LEVIATHAN Coin Developers</source>
         <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do LEVIATHAN Coin</translation>
     </message>
     <message>
